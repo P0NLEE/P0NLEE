@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p0nlee" alt="p0nlee" /></a> </p>
 
-- 🔭 I’m currently working on [ELearningQA](https://github.com/bae1001/eLearningQA)
+- 🔭 I’m currently working on the Logistics Industry, delivering software to high profile clients from the energy and carnic industry.
 
-- 🌱 I’m currently learning **Spring,Bootstrap,Docker,JavaScript,React,Node**
+- 🌱 I’m currently learning **Tailwind,Docker,JavaScript,Node**
 
-- 💬 Ask me about **Java,C,SQL,Python**
+- 💬 Ask me about **Java,Php,SQL,Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
